@@ -8,7 +8,7 @@ This is a web page to make your notes
 - Bootstrap
 - Redux
 ## Live Demo
-[Click here to take your notes](https://melodious-toffee-cfaf87.netlify.app/)
+[Click here to take your notes](https://flourishing-elf-cfe0f9.netlify.app/)
 ## Made by
 **👨‍💻Ravi**
 ## Show your support
